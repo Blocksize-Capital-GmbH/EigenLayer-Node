@@ -1,7 +1,7 @@
 {
   "name": "BLOCKSIZE",
   "website": "https://www.blocksize.info",
-  "description": "Blocksize is an EU-registered DeFi infrastructure provider. We secure blockchains and facilitate institutional grade access by operating nodes, providing off and on-chain data and supporting delegation."
+  "description": "Blocksize is an EU-registered DeFi infrastructure provider. We secure blockchains and facilitate institutional grade access by operating nodes, providing on- and offchain market data in real-time.",
   "logo": "https://github.com/Blocksize-Capital-GmbH/EigenLayer-Node/blob/c5462148639a6327e2186d43b7fde3b252c61548/BLOCKSIZE_Logo.png",
   "twitter": "@blocksizecap"
 }
